@@ -10,11 +10,11 @@ Analytics programme).
 
 ## Sessions (simulation part, 12 x 2h)
 
-1. Introduction to Simulation & OSCM Applications
+1. Introduction to Simulation & Business Process Modeling
 2. Modeling Randomness & Input Analysis
-3. Fundamentals of Monte Carlo Simulation
-4. MC for Decision Making & Risk Analysis
-5. Flow Analysis & Queueing Theory for Simulation
+3. Monte Carlo for Decision-Making & Risk
+4. Quantifying Flow: Capacity & Cycle Time
+5. Queueing Theory for Simulation
 6. Introduction to Discrete-Event Simulation (SimPy I)
 7. DES Modeling in SimPy II: Multi-Server & Complex Queues
 8. Output Analysis for Terminating Simulations
